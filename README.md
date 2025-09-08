@@ -1,2 +1,2 @@
-# My-luffy
-Pirate crew
+# My-straw hat pirates
+captain -luffy
